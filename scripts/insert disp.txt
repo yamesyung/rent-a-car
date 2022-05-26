@@ -1,0 +1,5 @@
+INSERT INTO DisponibilitateSI(id_disp,disp)
+VALUES(1,'Disponibil');
+
+INSERT INTO DisponibilitateSI(id_disp,disp)
+VALUES(2,'Indisponibil');

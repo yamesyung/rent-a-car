@@ -1,0 +1,15 @@
+INSERT INTO masinisi2(id_masina,nr_inmatriculare ,id_marca,model  ,an_fabricatie ,culoare ,id_combustibil ,id_disp)
+VALUES(1,'sv35rwe',1,'A3',2005,'alb',2,1);
+
+INSERT INTO masinisi2(id_masina,nr_inmatriculare ,id_marca,model  ,an_fabricatie ,culoare ,id_combustibil ,id_disp)
+VALUES(2,'nt32yew',4,'Sandero',2008,'alb',1,2);
+
+INSERT INTO masinisi2(id_masina,nr_inmatriculare ,id_marca,model  ,an_fabricatie ,culoare ,id_combustibil ,id_disp)
+VALUES(3,'sv21tde',6,'Mondeo',2012,'alb',2,1);
+
+INSERT INTO masinisi2(id_masina,nr_inmatriculare ,id_marca,model  ,an_fabricatie ,culoare ,id_combustibil ,id_disp)
+VALUES(4,'sv35rwe',9,'Astra',2003,'alb',1,2);
+
+INSERT INTO masinisi2(id_masina,nr_inmatriculare ,id_marca,model  ,an_fabricatie ,culoare ,id_combustibil ,id_disp)
+VALUES(5,'sv35rwe',10,'407',2007,'alb',2,2);
+

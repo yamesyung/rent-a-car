@@ -1,0 +1,37 @@
+create or replace view contracteview as
+select con.id_contract,
+ CONCAT(CONCAT (ang.nume, ' '), ang.prenume)  ANGAJAT ,
+ CONCAT(CONCAT (cli.nume, ' '), cli.prenume) CLIENT,
+CONCAT(CONCAT (mas.marca, ' '), mas.model) MASINA,
+con.Data_start AS" DATA START", 
+con.Data_sfarsit AS " DATA SFARSIT" ,
+ con.pret
+
+ FROM AngajatiSI ang, ClientiSI cli, MasiniSI mas, ContracteSI con
+
+ where con.ID_client = cli.ID_client AND con.ID_angajat = ang.ID_angajat AND con.ID_masina = mas.ID_masina
+
+
+
+
+
+
+create or replace view masiniview as
+select mas.id_masina ,
+mas.nr_inmatriculare  ,
+mar.id_marca ,
+mar.marca ,
+mas.model ,
+mas.an_fabricatie ,
+mas.culoare ,
+comb.id_combustibil ,
+comb.combustibil ,
+disp.id_disp ,
+disp.disp
+
+ FROM masinisi2 mas, marcisi mar, combustibilisi comb, disponibilitatesi disp
+
+ where mas.id_marca = mar.id_marca AND mas.id_combustibil = comb.id_combustibil AND mas.id_disp = disp.id_disp
+
+
+

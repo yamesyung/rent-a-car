@@ -1,0 +1,41 @@
+INSERT INTO marcisi(id_marca,marca)
+VALUES(1,'Audi');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(2,'BMW');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(3,'Citroen');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(4,'Dacia');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(5,'Fiat');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(6,'Ford');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(8,'Honda');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(9,'Opel');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(10,'Peugeot');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(11,'Seat');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(12,'Skoda');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(13,'Toyota');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(14,'Volkswagen');
+
+INSERT INTO marcisi(id_marca,marca)
+VALUES(15,'Volvo');

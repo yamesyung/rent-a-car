@@ -1,0 +1,17 @@
+INSERT INTO angajatisi (ID_angajat,nume,prenume,adresa,nr_telefon,salariu,email)
+VALUES (1,'Mihai','Sorescu','str. Aleea Cucului, 12','0769812083',1600,'oyo@gmail.com');
+
+INSERT INTO angajatisi (ID_angajat,nume,prenume,adresa,nr_telefon,salariu,email)
+VALUES (2,'Stan','Conta','str. Mihai Viteazul, 21','0768537344',1800,'stiig@yahoo.com');
+
+INSERT INTO angajatisi (ID_angajat,nume,prenume,adresa,nr_telefon,salariu,email)
+VALUES (3,'Alex','Enache','str. George Enescu, 33','0748120433',1500,'y7y@aol.in');
+
+INSERT INTO angajatisi (ID_angajat,nume,prenume,adresa,nr_telefon,salariu,email)
+VALUES (4,'Constantin','Tudosa','str. Garii, 14','0763624347',2000,'yud_c@gmail.com');
+
+INSERT INTO angajatisi (ID_angajat,nume,prenume,adresa,nr_telefon,salariu,email)
+VALUES (5,'Elena','Mihnea','str. Maior Ioan, 4','0748722903',1700,'hufi@yaio.va');
+
+
+

@@ -1,0 +1,67 @@
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.exe.config
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.exe
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.pdb
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\bin\Debug\Oracle.DataAccess.dll
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form1.resources
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form2.resources
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.exe
+E:\STUDENT\Visual Studio 2010\Projects\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.exe.config
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.exe
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.exe
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.csprojResolveAssemblyReference.cache
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form1.resources
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form2.resources
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+D:\school\sem2\BD\Lab10_BD\DotNetOracle\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.csproj.GenerateResource.Cache
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.exe.config
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.exe
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.exe
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\bin\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.csprojResolveAssemblyReference.cache
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form1.resources
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form2.resources
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.csproj.GenerateResource.Cache
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Debug\DotNetOracle.Form3.resources
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\bin\Debug\DotNetOracle.exe.config
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.exe
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\bin\Debug\DotNetOracle.exe
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\bin\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.csprojResolveAssemblyReference.cache
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.Form1.resources
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.Form2.resources
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.Form3.resources
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+D:\school\sem2\BD\DotNetOracle2\DotNetOracle\obj\x86\Debug\DotNetOracle.csproj.GenerateResource.Cache
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\bin\Debug\DotNetOracle.exe.config
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.exe
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\bin\Debug\DotNetOracle.exe
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\bin\Debug\DotNetOracle.pdb
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.csprojResolveAssemblyReference.cache
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Form1.resources
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Form2.resources
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Form3.resources
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+D:\school\sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.csproj.GenerateResource.Cache
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\bin\Debug\DotNetOracle.exe.config
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\bin\Debug\DotNetOracle.exe
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\bin\Debug\DotNetOracle.pdb
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.csprojAssemblyReference.cache
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Form1.resources
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Form2.resources
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Form3.resources
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.csproj.GenerateResource.cache
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.csproj.CopyComplete
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.exe
+F:\school\an3sem2\BD\Simion Ioan 3132b Proiect BD\DotNetOracle\obj\x86\Debug\DotNetOracle.pdb

@@ -1,0 +1,6 @@
+INSERT INTO combustibilisi(id_combustibil,combustibil)
+VALUES(1,'Benzina');
+
+INSERT INTO combustibilisi(id_combustibil,combustibil)
+VALUES(2,'Diesel');
+

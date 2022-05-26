@@ -1,0 +1,18 @@
+Create sequence seq_ang
+start with 100
+increment by 1
+minvalue 1
+maxvalue 10000;
+
+Create sequence seq_mas
+start with 100
+increment by 1
+minvalue 1
+maxvalue 10000;
+
+
+Create sequence seq_cli
+start with 100
+increment by 1
+minvalue 1
+maxvalue 10000;

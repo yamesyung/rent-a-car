@@ -1,0 +1,82 @@
+	CREATE TABLE  MasiniSI2 (
+             ID_masina NUMBER(4) NOT NULL  PRIMARY KEY ,
+	     Nr_inmatriculare VARCHAR2(7) NOT NULL,
+             ID_marca NUMBER(4)
+		CONSTRAINT  fk_masinisi2_marcisi REFERENCES marcisi(id_marca),
+             Model VARCHAR2 (15) ,
+             An_fabricatie NUMBER(4),
+             Culoare VARCHAR2 (20),
+             ID_combustibil NUMBER(4)
+		CONSTRAINT  fk_masinisi2_combustibilisi REFERENCES combustibilisi(id_combustibil),
+             ID_disp NUMBER(4)
+		CONSTRAINT  fk_masinisi2_disponibilitatesi REFERENCES disponibilitatesi(id_disp) );
+
+DROP TABLE MasiniSI;
+
+
+CREATE TABLE MarciSI  (
+		ID_marca NUMBER(4) NOT NULL PRIMARY KEY ,
+		Marca VARCHAR2(20) NOT NULL);
+
+DROP TABLE MarciSI;
+
+
+
+
+CREATE TABLE CombustibiliSI  (
+		ID_combustibil NUMBER(4) NOT NULL PRIMARY KEY ,
+		Combustibil VARCHAR2(20) NOT NULL);
+
+DROP TABLE CombustibiliSI;
+
+
+CREATE TABLE DisponibilitateSI  (
+		ID_disp NUMBER(4) NOT NULL PRIMARY KEY ,
+		Disp VARCHAR2(20) NOT NULL);
+
+DROP TABLE DisponibilitateSI;
+
+
+
+CREATE TABLE AngajatiSI  (
+		ID_angajat NUMBER(4) NOT NULL PRIMARY KEY ,		
+		Nume VARCHAR2(20) NOT NULL,
+		Prenume VARCHAR2(20) NOT NULL,
+		Adresa VARCHAR2(40),
+		Nr_telefon CHAR(10),
+		Salariu NUMBER(5),
+		Email VARCHAR2(30));
+
+DROP TABLE AngajatiSI;
+
+
+
+CREATE TABLE ClientiSI  (
+		ID_client NUMBER(4) NOT NULL PRIMARY KEY ,		
+		Nume VARCHAR2(20) NOT NULL,
+		Prenume VARCHAR2(20) NOT NULL,
+		Adresa VARCHAR2(40),
+		Nr_telefon CHAR(10));
+
+DROP TABLE ClientiSI2;
+
+
+
+
+CREATE TABLE ContracteSI  (
+		ID_contract NUMBER(4) NOT NULL PRIMARY KEY ,
+		ID_angajat NUMBER(4)
+		CONSTRAINT  fk_contractesi_angajatisi REFERENCES angajatisi(id_angajat),
+		ID_client NUMBER(4)
+		CONSTRAINT  fk_contractesi_clientisi REFERENCES clientisi(id_client),
+		ID_masina NUMBER(4) 
+		CONSTRAINT fk_conractesi_masinisi REFERENCES masinisi(id_masina),
+		Data_start DATE,
+		Data_sfarsit DATE,
+		Pret NUMBER(5));
+
+
+DROP TABLE ContracteSI;		
+
+
+

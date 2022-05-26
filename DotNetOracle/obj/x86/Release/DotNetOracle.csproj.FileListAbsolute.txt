@@ -1,0 +1,9 @@
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\bin\Release\DotNetOracle.exe.config
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\bin\Release\DotNetOracle.exe
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\bin\Release\DotNetOracle.pdb
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Release\DotNetOracle.Form1.resources
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Release\DotNetOracle.Form2.resources
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Release\DotNetOracle.Properties.Resources.resources
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Release\DotNetOracle.csproj.GenerateResource.Cache
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Release\DotNetOracle.exe
+D:\school\sem2\BD\Proiect\DotNetOracle\DotNetOracle\obj\x86\Release\DotNetOracle.pdb

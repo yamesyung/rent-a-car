@@ -1,0 +1,33 @@
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (3,'Alex','Dumitriu','str. Aleea Cucului, 12','076838123');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (2,'Marius','Stroe','str. Mihai Viteazul, 21','0794237413');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (24,'Ana','Cepoi','str. Martin, 5','0768704234');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (1,'Mihaela','Craciun','str. Mircea cel Batran, 41','0768732592');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (4,'Cristi','Marcu','str. Lalelelor, 4','0768732592');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (5,'Robert','Muceleanu','str. Antipa, 7','0768779567');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (6,'Adrian','Frank','str. Petrut, 13','0768678533');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (7,'Andrei','Amariei','str. Dascun, 12','0768237744');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (8,'Maria','Pavel','str. Molidului, 11','0768943762');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (9,'Marian','Lacatus','str. Plopilor, 51','0768732592');
+
+INSERT INTO clientisi (ID_client,nume,prenume,adresa,nr_telefon)
+VALUES (10,'Miruna','Malin','str. Bunesti, 31','0748374523');
+
